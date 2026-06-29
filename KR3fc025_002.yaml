@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc025/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九數之中惟勾股一法幽深玄逺近世算之士得其肯綮者絶少應祥自幼性好數學然無師傳每得諸家算書中夜思索至於不寐又之若有神告之者遂盡得其術既而又得周髀及四元王鑑諸書於是所謂勾股弦和較黃中之說開闔折變悉得古人立法之㫖求之於心無不吻合蓋有不假於思索者恐其久而忘也政務之暇手銯其詳節各為問答一二童附之名曰勾股算術俾後之學算者因此求之庶有以得其要領丢峕嘉靖癸巳夏四月朔吳興箬溪道人顧應祥書于滇南巡撫行臺
+  hash: sha256:4eb654a3aa09f249526beecb6e265f0361ec02210e17e622a5a6a2582790b771
+metadata:
+  title: 勾股算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc025.xml
+hash: sha256:02d3db5f274b8fa667b2b0dfc75b247e9f358b5c07e602f777f7fa91893556be

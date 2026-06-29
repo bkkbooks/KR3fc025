@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc025/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圓徑問勾八尺股十五尺容圓徑幾何答曰六尺術曰勾股相乘得一百二十尺倍之為實以勾股求弦得十七尺與勾股相併得四十尺即弦和和為法除實得圓徑六尺即弦和較
+  hash: sha256:ea89d1983addd6b30063e4a6ebbffeab9e6931503a9ac01b29a427e7c0181d0a
+metadata:
+  title: 勾股算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc025.xml
+hash: sha256:be5711891f68ea868f8049ec58052aee58bc746c5748ebca05d81eaa43434767

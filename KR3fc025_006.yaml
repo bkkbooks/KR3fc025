@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc025/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 股較加股弦較即勾弦較减股弦和即勾弦和勾股和加股弦較即勾弦和减股弦和即勾弦較勾股較加勾股和半之為股减勾股和半之為勾股弦較加股弦和半之為弦减股弦和半之為股勾弦較加勾弦和半之為弦减勾弦和半之為勾弦和較加弦和和半之為和减弦和和半之為弦弦較較加弦較和半之為弦减弦較和半之為較變而通之神而明之存乎其人焉
+  hash: sha256:590ab59380175acd55613c0f1a42bae7c9f30498443dc106cfc76caaa8bf2f65
+metadata:
+  title: 勾股算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc025.xml
+hash: sha256:d078b38f35865aec9ebc3d106ce88a85dcfcb429bfac2c9b579ad46d5cb58047

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc025/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾股名義勾橫曰勾股直曰股弦斜曰弦勾股較勾股相减勾弦較勾弦相减股弦較股弦相减勾股和勾與股併勾弦和勾與弦併股弦和股與弦併弦較和弦與勾股較併弦和和弦與勾股和併弦和較弦與勾股和相减弦較較弦與勾股較相减
+  hash: sha256:7a848c8af6bde078457436fc2eaf85d06fc1c8e6fa345767464b9d7367c71787
+metadata:
+  title: 勾股算術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc025.xml
+hash: sha256:0af574574123b2e4ed5811e1e67757baa2fefd5bf789d40425bf08cd6145c3b3
